@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{4D2A42A6-DB8F-42D3-A66F-9EB29D391493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketBasket.Models", "TicketBasket.Models\TicketBasket.Models.csproj", "{EBF09005-C41F-46CE-BB4A-CC3E8C0AE31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF09005-C41F-46CE-BB4A-CC3E8C0AE31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF09005-C41F-46CE-BB4A-CC3E8C0AE31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF09005-C41F-46CE-BB4A-CC3E8C0AE31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF09005-C41F-46CE-BB4A-CC3E8C0AE31A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EBF09005-C41F-46CE-BB4A-CC3E8C0AE31A} = {4D2A42A6-DB8F-42D3-A66F-9EB29D391493}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A52C6AD-E4DB-44DB-B4A6-52A404C5FF30}
+	EndGlobalSection
+EndGlobal
